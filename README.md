@@ -12,6 +12,10 @@ A categorized collection of essential Linux commands every system administrator,
 - ⚙️ [Services & Daemons](services/README.md)
 - 🔁 [Scripting & Automation](scripting/README.md)
 - 🧯 [Troubleshooting](troubleshooting/README.md)
+- 👥 [Users](users/README.md)
+- 💿 [Disk](disk/README.md)
+- ⚙️ [Services](services/README.md)
+  
 
 ---
 
