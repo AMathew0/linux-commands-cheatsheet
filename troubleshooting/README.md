@@ -4,9 +4,10 @@ Use these commands to diagnose and resolve system issues related to services, lo
 
 ---
 
-## 🔎 Check System Logs
-
 ```bash
+
+🔎 Check System Logs
+
 journalctl                   # View system logs (systemd)
 journalctl -xe              # Show recent critical events
 dmesg                        # Kernel & hardware logs
