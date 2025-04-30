@@ -1,16 +1,13 @@
 # 🧰 Basic Linux Commands
 
-📁 File: basic
-
-# 🧰 Basic Linux Commands
-
 This section covers foundational commands for navigating the file system, handling files/directories, managing permissions, and basic system usage.
 
 ---
 
-## 📂 Navigation & Directory Handling
-
 ```bash
+
+📂 Navigation & Directory Handling
+
 pwd                        # Show current directory
 ls                         # List files in current directory
 ls -la                     # List all files with detailed info
