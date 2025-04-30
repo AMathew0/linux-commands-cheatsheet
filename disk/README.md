@@ -3,10 +3,10 @@
 This section covers basic to intermediate disk management commands for checking disk usage, mounting drives, and managing partitions.
 
 ---
+```bash
 
 🧾 Check Disk Usage
 
-```bash
 df -h                        # View mounted disks & space (human-readable)
 du -sh /home/user/           # Get folder size
 du -sh *                     # Size of each item in the current directory
