@@ -4,9 +4,10 @@ This section covers basic to advanced process control — useful for monitoring 
 
 ---
 
-## 📊 View Running Processes
-
 ```bash
+
+📊 View Running Processes
+
 ps                          # Show current shell’s processes
 ps aux                      # List all running processes with details
 ps -ef                      # Another common format
