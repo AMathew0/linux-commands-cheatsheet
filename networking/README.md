@@ -4,9 +4,10 @@ This section includes essential commands for checking IPs, managing interfaces, 
 
 ---
 
-## 🌍 Check Network Configuration
-
 ```bash
+
+🌍 Check Network Configuration
+
 ip a                       # Show all IP addresses (modern alternative to ifconfig)
 ifconfig                   # Show network interfaces (legacy, may require net-tools)
 hostname -I                # Show IP address
