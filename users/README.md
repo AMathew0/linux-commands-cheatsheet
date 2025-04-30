@@ -4,9 +4,10 @@ This section covers commands to create, modify, and manage users and groups in L
 
 ---
 
-## 🧑 User Management
-
 ```bash
+
+🧑 User Management
+
 adduser john                 # Add new user (interactive)
 useradd -m alice             # Add user with home directory
 passwd john                 # Set or change user password
