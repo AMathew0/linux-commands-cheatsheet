@@ -4,9 +4,10 @@ This section introduces essential concepts and examples to help you create and u
 
 ---
 
-## ✨ Script Structure
-
 ```bash
+
+✨ Script Structure
+
 #!/bin/bash
 # This is a sample script
 
