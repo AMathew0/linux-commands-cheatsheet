@@ -4,7 +4,7 @@ This section covers basic to intermediate disk management commands for checking 
 
 ---
 
-## 🧾 Check Disk Usage
+🧾 Check Disk Usage
 
 ```bash
 df -h                        # View mounted disks & space (human-readable)
