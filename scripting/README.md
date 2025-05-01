@@ -33,6 +33,7 @@ For Loop
 for i in 1 2 3; do
   echo "Loop $i"
 done
+
 While Loop
 count=1
 while [ $count -le 3 ]; do
